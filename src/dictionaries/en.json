@@ -1,0 +1,11 @@
+{
+    "server_components": {
+        "welcome": "welcome"
+    },
+    "couter": {
+        "increment": "increment",
+        "decrement": "decrement"
+    },
+    "switcher_title": "change language",
+    "current_locale": "current locate"
+}
